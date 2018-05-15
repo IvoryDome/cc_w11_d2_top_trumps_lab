@@ -1,0 +1,18 @@
+{
+  "name": "top_trumps_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toptrumps.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "five": "^0.8.0"
+  }
+}
